@@ -1,0 +1,4 @@
+battery_id,SOH,RUL,BCt,Status,Recommendation
+B5,72.38515718858974,109.5,1.4477031437717949,Warning,Inspect or Replace
+B6,73.64549993286636,104.5,1.4729099986573273,Warning,Inspect or Replace
+B7,68.62661786227163,124.5,1.3725323572454324,Critical,Inspect or Replace
